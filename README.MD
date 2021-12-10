@@ -1,10 +1,3 @@
-# EZ-Flashloan
-## This repo has been deprecated, in favor of the official [Flash Loans Truffle Box](https://github.com/aave/flashloan-box)
-
----
-
-A barebones solidity (^0.5.15) template for Aave's flashloans
-
 ### Join our #development channel on the [Aave Discord](https://discord.gg/fVaDMqT)
 
 ## Prerequisite
@@ -121,4 +114,6 @@ Before deploying to mainnet:
 
 ## More information
  - [Official documentation](https://docs.aave.com/developers/tutorials/performing-a-flash-loan): For more details on performing a flash loan.
+    https://docs.aave.com/developers/guides/flash-loans
+    https://www.youtube.com/watch?v=Aw7yvGFtOvI&ab_channel=PatrickCollins
  - [Contract addresses](https://docs.aave.com/developers/developing-on-aave/deployed-contract-instances): For a list of all the asset and contract address on mainnet and the testnets.
